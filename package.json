@@ -1,0 +1,25 @@
+{
+  "name": "rao-nasir-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Rao Nasir - Senior Software Engineer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirali0099/rao-nasir-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "software-engineer",
+    "backend",
+    "laravel",
+    "php"
+  ],
+  "author": "Rao Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.6.1"
+  }
+}
